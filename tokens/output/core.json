@@ -6,9 +6,5 @@
   "background": {
     "value": "#b19494",
     "type": "color"
-  },
-  "heading": {
-    "value": ".Helvetica LT MM",
-    "type": "fontFamilies"
   }
 }
