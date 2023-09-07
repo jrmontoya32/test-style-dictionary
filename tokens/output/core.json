@@ -1,0 +1,14 @@
+{
+  "primary": {
+    "value": "#8a0a0a",
+    "type": "color"
+  },
+  "background": {
+    "value": "#b19494",
+    "type": "color"
+  },
+  "heading": {
+    "value": ".Helvetica LT MM",
+    "type": "fontFamilies"
+  }
+}
